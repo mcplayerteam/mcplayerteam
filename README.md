@@ -1,0 +1,2 @@
+# Introduction
+Hi, I’m @McPlayerTeam, lead developer of [Officax™](https://officax.com) the business suite and owner of the technical consultancy [MCP Team™](https://mcp.team). I am interested in a wide range of technological areas, including hardware virtualization, operating systems, web development, graphics design, data security and more. If you encounter any technical difficulties, you can find us for help [here](https://m.me/mcpteamofficial).
